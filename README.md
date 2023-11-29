@@ -10,7 +10,7 @@ seo:
 
 # Fundamentals of Programming Course
 
-# Python Fundamentals of Programming Course Summary
+## Python Fundamentals of Programming Course Summary
 
 The Python Fundamentals of Programming course at Sharif University of Technology provides students with a comprehensive understanding of key programming concepts and tools. The course covers the following topics:
 
